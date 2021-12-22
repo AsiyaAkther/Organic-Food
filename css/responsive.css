@@ -282,7 +282,7 @@
     /* skill section end here */
 
     .footer{
-        padding:2% 5%;
+        padding:1% 5%;
         background-color: rgb(151, 42, 3);
         min-height: 200px;
         text-align: center;
@@ -290,7 +290,7 @@
     }
     input{
         height:39px;
-        width:300px;
+        width:70%;
         border-radius: 50px;
         border:none;
         padding: 1% 5%;
@@ -317,7 +317,7 @@
         cursor: pointer;
     }
     .icon{
-        width:55%;
+        width:75%;
         margin:0 auto;
         margin-top: 30px;
     }
